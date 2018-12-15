@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Pranto Restaurent\Pranto Restaurent\bin\Release\Pranto Restaurent.exe.config
+C:\Users\User\source\repos\Pranto Restaurent\Pranto Restaurent\bin\Release\Pranto Restaurent.exe
+C:\Users\User\source\repos\Pranto Restaurent\Pranto Restaurent\bin\Release\Pranto Restaurent.pdb
+C:\Users\User\source\repos\Pranto Restaurent\Pranto Restaurent\obj\Release\Pranto_Restaurent.Form1.resources
+C:\Users\User\source\repos\Pranto Restaurent\Pranto Restaurent\obj\Release\Pranto_Restaurent.Form2.resources
+C:\Users\User\source\repos\Pranto Restaurent\Pranto Restaurent\obj\Release\Pranto_Restaurent.Properties.Resources.resources
+C:\Users\User\source\repos\Pranto Restaurent\Pranto Restaurent\obj\Release\Pranto Restaurent.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Pranto Restaurent\Pranto Restaurent\obj\Release\Pranto Restaurent.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Pranto Restaurent\Pranto Restaurent\obj\Release\Pranto Restaurent.exe
+C:\Users\User\source\repos\Pranto Restaurent\Pranto Restaurent\obj\Release\Pranto Restaurent.pdb

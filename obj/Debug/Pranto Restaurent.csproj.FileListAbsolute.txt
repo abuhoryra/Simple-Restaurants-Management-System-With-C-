@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Pranto Restaurent\Pranto Restaurent\bin\Debug\Pranto Restaurent.exe.config
+C:\Users\User\source\repos\Pranto Restaurent\Pranto Restaurent\bin\Debug\Pranto Restaurent.exe
+C:\Users\User\source\repos\Pranto Restaurent\Pranto Restaurent\bin\Debug\Pranto Restaurent.pdb
+C:\Users\User\source\repos\Pranto Restaurent\Pranto Restaurent\obj\Debug\Pranto Restaurent.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Pranto Restaurent\Pranto Restaurent\obj\Debug\Pranto_Restaurent.Form1.resources
+C:\Users\User\source\repos\Pranto Restaurent\Pranto Restaurent\obj\Debug\Pranto_Restaurent.Properties.Resources.resources
+C:\Users\User\source\repos\Pranto Restaurent\Pranto Restaurent\obj\Debug\Pranto Restaurent.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Pranto Restaurent\Pranto Restaurent\obj\Debug\Pranto Restaurent.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Pranto Restaurent\Pranto Restaurent\obj\Debug\Pranto Restaurent.exe
+C:\Users\User\source\repos\Pranto Restaurent\Pranto Restaurent\obj\Debug\Pranto Restaurent.pdb
+C:\Users\User\source\repos\Pranto Restaurent\Pranto Restaurent\obj\Debug\Pranto_Restaurent.Form2.resources
